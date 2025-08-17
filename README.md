@@ -35,22 +35,22 @@ _Add your screenshots in the assets folder and reference them here_
 
 ### Steps
 
-#1. Clone the repository:
+## 1. Clone the repository:
 
 
     git clone https://github.com/YourUsername/SmartGPA.git
     cd SmartGPA
 
 
-#2. Get Flutter packages:
+## 2. Get Flutter packages:
 
    flutter pub get
 
-#3. Run the app:
+## 3. Run the app:
 
   flutter run
   
-#4. Dependencies:
+## 4. Dependencies:
 
   dependencies:
   flutter:
@@ -58,17 +58,17 @@ _Add your screenshots in the assets folder and reference them here_
   http: ^0.14.0
   hive_flutter: ^1.1.0
 
-#5. Privacy Policy
+## 5. Privacy Policy
 
   SmartGPA does not collect personal data.
   All calculations and records are stored locally on your device.
 
-#6. Contact
+## 6. Contact
 
   For feedback or support:
   fakemail7243@gmail.com
 
-#7. Developed by JaniTech.
+## 7. Developed by JaniTech.
 
   License
   
